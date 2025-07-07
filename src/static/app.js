@@ -84,3 +84,5 @@ document.addEventListener("DOMContentLoaded", () => {
   // Initialize app
   fetchActivities();
 });
+
+// No changes needed for participant info; handled in index.html renderActivities.
